@@ -46,4 +46,3 @@ This project presents an **AI-driven plagiarism detection and automated grading 
 
 ## 📄 License
 This project is intended for academic and research purposes. Please contact the author for permissions regarding reuse or extension.
-- Explore **blockchain-based verification** for authorship tracking
